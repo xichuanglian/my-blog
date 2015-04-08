@@ -67,6 +67,10 @@ theme: next
 plugins:
 - hexo-math
 
+# Markdown format
+marked:
+  breaks: false
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
